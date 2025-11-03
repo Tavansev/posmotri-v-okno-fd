@@ -254,7 +254,7 @@ input:focus {
   row-gap: 30px;
   position: relative;
   height: 298px;
-  overflow-y: scroll;
+  overflow-y: auto;
   margin-top: 26px;
 }
 
